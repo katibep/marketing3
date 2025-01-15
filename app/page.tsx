@@ -1,5 +1,5 @@
 import { Button } from '@/components/ui/button'
-import { ArrowBigDownIcon, ArrowDown01Icon, ArrowRight, Save } from 'lucide-react'
+import { ArrowBigDownIcon, ArrowRight, Save } from 'lucide-react'
 import Image from 'next/image'
 import Link from 'next/link'
 import React from 'react'
